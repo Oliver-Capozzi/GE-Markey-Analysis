@@ -183,11 +183,10 @@ The **Dashboard** combines these five sheets into one view. Interactive filters 
 
 ## 👤 Author
 
-Oliver Cupozzi — aspiring data scientist | [LinkedIn](https://www.linkedin.com/) | [Email](mailto\:example@example.com)
-
+Oliver Capozzi — aspiring data scientist 
 ---
 
 ### License
 
-MIT © 2025 Oliver Cupozzi
+MIT © 2025 Oliver Capozzi
 
